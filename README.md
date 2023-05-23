@@ -2,7 +2,7 @@
 ### Made for simple install on Prism Launcher
 
 ## How to use?
-#### Release
+#### Release (stable)
 Download OptiKad build and import into Prism Launcher/MultiMC
-#### From main branch
+#### From main branch (maybe unstable)
 Copy ZIP code download link and paste import
