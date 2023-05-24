@@ -3,6 +3,6 @@
 
 ## How to use?
 #### Release (stable)
-Download OptiKad build and import into Prism Launcher/MultiMC
+Download OptiKad release and import into Prism Launcher/MultiMC
 #### From main branch (maybe unstable)
-Copy ZIP code download link and paste import
+Copy ZIP code download link and paste import archive
