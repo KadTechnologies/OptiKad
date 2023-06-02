@@ -6,3 +6,5 @@
 Download release and import into Prism Launcher/MultiMC
 #### From main branch (maybe unstable)
 Copy ZIP code download link and paste import archive
+#### From develop branch (unstable)
+Copy ZIP code download link and paste import archive
