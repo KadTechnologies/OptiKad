@@ -44,7 +44,7 @@ biomeBlendRadius:2
 renderClouds:"true"
 resourcePacks:["fabric"]
 incompatibleResourcePacks:[]
-lastServer:vdserver.join-mc.com
+lastServer:vdserver4.join-mc.com
 lang:ru_ru
 soundDevice:""
 chatVisibility:0
